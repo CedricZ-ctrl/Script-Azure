@@ -1,0 +1,15 @@
+=============================================================
+START SCRIPT: AdUser-Azure.sh
+=============================================================
+Date : 2026-09-12 19:42:28
+=============================================================
+2026-09-12 19:42:30 [INFO] - List of Users :    "userPrincipalName": "ChrisG@czstudioutlook.onmicrosoft.com"
+    "userPrincipalName": "czadmin@czstudioutlook.onmicrosoft.com"
+    "userPrincipalName": "czstudi_outlook.com#EXT#@czstudioutlook.onmicrosoft.com"
+    "userPrincipalName": "Patrick.Poivre@czstudioutlook.onmicrosoft.com"
+2026-09-12 19:42:39 [INFO] - the group : 'Marketing' exist in Azure
+2026-09-12 19:42:40 [INFO] - Move 'Patrick.Poivre@czstudioutlook.onmicrosoft.com' to group 'Marketing' done 
+=============================================================
+END SCRIPT
+Date : 2026-09-12 19:42:42
+=============================================================
